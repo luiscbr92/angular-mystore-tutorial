@@ -1,3 +1,5 @@
-# angular-wsdfle
+# angular-mystore-tutorial
 
-Made on StackBlitz ⚡️
+Running in [https://mystore-tutorial-ngapp.stackblitz.io](https://mystore-tutorial-ngapp.stackblitz.io)
+
+Created with StackBlitz ⚡️
